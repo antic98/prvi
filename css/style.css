@@ -1,0 +1,9 @@
+body {
+  background-color: burlywood !important;
+}
+
+.bordered {
+  border: #343a40 2px solid;
+  background-color: cadetblue;
+  padding: 0 10 10 10;
+}
